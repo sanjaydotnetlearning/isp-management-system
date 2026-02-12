@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="ISP.API/ISP.API.csproj" Id="61b5caca-f214-4799-9281-6846ad2d4bb0" />
+  <Project Path="ISP.Application/ISP.Application.csproj" Id="bdb2f3cc-6992-4945-9371-dc64fbd9b422" />
+  <Project Path="ISP.Domain/ISP.Domain.csproj" Id="1b75c646-47df-4b8a-bada-584e57a664e5" />
+  <Project Path="ISP.Infrastructure/ISP.Infrastructure.csproj" Id="dd2f2efd-2538-4ad5-a777-3ec27d5903b9" />
+  <Project Path="ISP.Tests/ISP.Tests.csproj" Id="a282c911-086e-45bc-88fc-cb90e07bc673" />
+</Solution>
